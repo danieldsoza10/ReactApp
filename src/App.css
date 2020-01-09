@@ -105,7 +105,7 @@ h2,
   font-size: 23px;
 }
 .couterSection {
-  background: url(/static/media/bg-1.9318636e.jpg) no-repeat;
+  background: url(../src/Images/bg-1.jpg) no-repeat;
   background-size: cover;
   background-attachment: fixed;
 }
@@ -219,12 +219,10 @@ h2,
 }
 
 @media (min-width: 576px) {
-  .map{
+  .map {
     position: absolute;
   }
   .contactSection {
-  background: linear-gradient(to right, #51bedd 50%, #fff 50%);
+    background: linear-gradient(to right, #51bedd 50%, #fff 50%);
   }
 }
-
-
