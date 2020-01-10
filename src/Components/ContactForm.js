@@ -33,7 +33,7 @@ export default function FinalForm() {
       setLoading(<i className="fa fa-spinner fa-spin loadingIcon" />);
 
       axios
-        .post("./contact.php", data)
+        .post("./contact.php ", data)
         .then(function(response) {
           console.log(response);
           setName("");
