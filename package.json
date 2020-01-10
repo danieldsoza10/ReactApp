@@ -2,7 +2,7 @@
   "name": "practice1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rintuweb4.github.io/ScrollingReactApp",
+  "homepage": "https://rintuweb4.github.io/Scrolling-React-App",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
